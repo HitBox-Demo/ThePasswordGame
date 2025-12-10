@@ -49,7 +49,8 @@ Huge respect to **Neal Agarwal**, the original creator of *The Password Game*. T
 
 ### 👨‍💻 Developers
 * **HitBox-Demo** - [GitHub Profile](https://github.com/HitBox-Demo)
-* 
+* **AleefT** - [GitHub](https://github.com/AleefT)
+* **aisyahsofiyanaz** - [Github Profile](https://github.com/aisyahsofiyanaz)
 
 
 ## Contributing
